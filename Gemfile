@@ -44,4 +44,5 @@ group :test do
 end
 
 
-gem 'bootstrap-sass',       '3'      
+gem 'bootstrap-sass',       '3'  
+gem 'bcrypt'    
